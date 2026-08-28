@@ -1,0 +1,208 @@
+name: Update draw links
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get latest draw links
+        run: |
+          python -m pip install requests beautifulsoup4
+
+          cat > /tmp/update.py <<'PY'
+          import requests
+          import re
+          import json
+          from bs4 import BeautifulSoup
+
+          SOURCE = "https://uxux11.github.io/funbox-line/"
+
+          r = requests.get(
+              SOURCE,
+              timeout=30,
+              headers={"User-Agent": "Mozilla/5.0"}
+          )
+          r.raise_for_status()
+
+          soup = BeautifulSoup(r.text, "html.parser")
+
+          # 讀取我們自己的門市資料
+          text = open("d4.js", "r", encoding="utf-8").read()
+
+          m = re.search(
+              r'const STORES\s*=\s*(\[.*?\]);\s*const DRAWS',
+              text,
+              re.S
+          )
+
+          if not m:
+              raise SystemExit("找不到 STORES")
+
+          stores = json.loads(m.group(1))
+
+          # 建立門市名稱比對
+          store_names = []
+          for s in stores:
+              full = s["name"]
+              short = re.sub(r'^Funbox\s*', '', full, flags=re.I)
+              store_names.append((full, short))
+
+          draws = []
+          seen = set()
+
+          for a in soup.find_all("a", href=True):
+
+              url = a.get("href", "").strip()
+
+              if "lin.ee/" not in url:
+                  continue
+
+              if url in seen:
+                  continue
+
+              # 往上找最接近的內容區塊
+              node = a
+              context = ""
+
+              for _ in range(8):
+                  if not node:
+                      break
+
+                  context = node.get_text("\n", strip=True)
+
+                  if any(
+                      full in context or short in context
+                      for full, short in store_names
+                  ):
+                      break
+
+                  node = node.parent
+
+              # 找門市
+              store = ""
+
+              for full, short in sorted(
+                  store_names,
+                  key=lambda x: len(x[1]),
+                  reverse=True
+              ):
+                  if full in context or short in context:
+                      store = full
+                      break
+
+              if not store:
+                  continue
+
+              # 找日期
+              date = ""
+              dm = re.search(
+                  r'(?<!\d)(\d{1,2}/\d{1,2})(?!\d)',
+                  context
+              )
+
+              if dm:
+                  date = dm.group(1)
+
+              # 找商品文字
+              lines = [
+                  x.strip()
+                  for x in context.splitlines()
+                  if x.strip()
+              ]
+
+              item = ""
+
+              for line in lines:
+                  if re.search(
+                      r'\b(?:BX|UX|CX|XOVER|BEYBLADE)[-\s]?\d+',
+                      line,
+                      re.I
+                  ):
+                      item = line
+                      break
+
+              if not item:
+                  label = a.get_text(" ", strip=True)
+
+                  if label not in [
+                      "抽選",
+                      "立即抽選",
+                      "前往抽選",
+                      "參加抽選"
+                  ]:
+                      item = label
+
+              if not item:
+                  item = "抽選"
+
+              draws.append({
+                  "date": date,
+                  "store": store,
+                  "item": item,
+                  "url": url
+              })
+
+              seen.add(url)
+
+          if not draws:
+              raise SystemExit(
+                  "這次沒有抓到任何抽選資料，保留舊資料"
+              )
+
+          new_text = re.sub(
+              r'const DRAWS\s*=\s*\[.*?\];',
+              "const DRAWS = " +
+              json.dumps(
+                  draws,
+                  ensure_ascii=False,
+                  indent=2
+              ) +
+              ";",
+              text,
+              count=1,
+              flags=re.S
+          )
+
+          open(
+              "d4.js",
+              "w",
+              encoding="utf-8"
+          ).write(new_text)
+
+          print("取得抽選：", len(draws), "筆")
+
+          for d in draws:
+              print(
+                  d["store"],
+                  d["date"],
+                  d["item"],
+                  d["url"]
+              )
+          PY
+
+          python /tmp/update.py
+
+      - name: Save
+        run: |
+          git config user.name "auto-update"
+          git config user.email "actions@github.com"
+
+          git add d4.js
+
+          if git diff --cached --quiet; then
+            echo "沒有新資料"
+          else
+            git commit -m "update draw links"
+            git push
+          fi
