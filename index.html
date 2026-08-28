@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="robots" content="noindex,nofollow,noarchive,nosnippet,noimageindex">
+  <meta name="googlebot" content="noindex,nofollow,noarchive,nosnippet,noimageindex">
+  <meta name="bingbot" content="noindex,nofollow,noarchive,nosnippet,noimageindex">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="X-Robots-Tag" content="noindex, nofollow, noarchive">
+  <title>Private Link Board</title>
+  <style>
+    :root{
+      --bg:#f4f6f8; --card:#fff; --text:#15171a; --muted:#6b7280;
+      --line:#dde3e9; --accent:#111827; --soft:#eef2f6;
+      --visited:#9ca3af; --radius:16px;
+    }
+    *{box-sizing:border-box}
+    html{-webkit-text-size-adjust:100%}
+    body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","PingFang TC",sans-serif}
+    .wrap{max-width:720px;margin:0 auto;padding:16px 14px 90px}
+    .top{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;margin:8px 2px 16px}
+    h1{font-size:24px;margin:0;letter-spacing:.02em}
+    .sub{font-size:12px;color:var(--muted);margin-top:4px}
+    .tabs{display:grid;grid-template-columns:1fr 1fr;background:#e8edf2;border-radius:14px;padding:4px;margin-bottom:14px;position:sticky;top:8px;z-index:5;backdrop-filter:blur(8px)}
+    .tab{border:0;background:transparent;padding:11px 8px;border-radius:11px;font-size:15px;font-weight:700;color:#59616b}
+    .tab.active{background:white;color:#111;box-shadow:0 1px 6px rgba(0,0,0,.08)}
+    .toolbar{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:12px;margin-bottom:14px}
+    .search{width:100%;border:1px solid var(--line);border-radius:12px;padding:12px 13px;font-size:16px;outline:none;background:#fbfcfd}
+    .filters{display:flex;gap:8px;overflow-x:auto;padding-top:10px;scrollbar-width:none}
+    .filters::-webkit-scrollbar{display:none}
+    .chip{white-space:nowrap;border:1px solid var(--line);background:white;border-radius:999px;padding:8px 12px;font-size:14px}
+    .chip.active{background:#111827;color:#fff;border-color:#111827}
+    .meta-row{display:flex;justify-content:space-between;align-items:center;margin:12px 2px 8px;color:var(--muted);font-size:13px}
+    .clear{border:0;background:transparent;color:#68707b;text-decoration:underline;font-size:13px;padding:4px}
+    .list{display:grid;gap:10px}
+    .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:13px}
+    .card.visited{opacity:.58}
+    .name{font-size:17px;font-weight:800;line-height:1.25}
+    .county{display:inline-block;margin-top:7px;padding:4px 8px;border-radius:999px;background:var(--soft);font-size:12px;color:#5b6470}
+    .actions{display:flex;gap:8px;margin-top:12px}
+    .btn{flex:1;display:flex;align-items:center;justify-content:center;text-decoration:none;border-radius:12px;padding:11px 10px;font-weight:800;font-size:15px}
+    .btn-main{background:#111827;color:white}
+    .btn-copy{border:1px solid var(--line);background:white;color:#111827}
+    .empty{background:white;border:1px dashed #cfd6de;border-radius:16px;text-align:center;padding:36px 18px;color:var(--muted)}
+    .draw-date{font-size:12px;color:var(--muted);margin-bottom:5px}
+    .draw-title{font-weight:800;font-size:16px}
+    .draw-store{font-size:14px;margin-top:4px;color:#4b5563}
+    .foot{margin-top:20px;padding:14px 4px;color:#8a929c;font-size:11px;line-height:1.6}
+    .hide{display:none!important}
+    .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%) translateY(20px);background:#111;color:white;padding:10px 14px;border-radius:999px;font-size:13px;opacity:0;pointer-events:none;transition:.2s;z-index:20}
+    .toast.show{opacity:.95;transform:translateX(-50%) translateY(0)}
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div>
+      <h1>私人連結整理</h1>
+      <div class="sub">僅供自行整理使用</div>
+    </div>
+    <div class="sub" id="count"></div>
+  </div>
+
+  <div class="tabs">
+    <button class="tab active" data-tab="stores">門市</button>
+    <button class="tab" data-tab="draws">抽選</button>
+  </div>
+
+  <section id="storesPane">
+    <div class="toolbar">
+      <input id="q" class="search" placeholder="搜尋門市…" autocomplete="off">
+      <div class="filters" id="filters"></div>
+    </div>
+    <div class="meta-row">
+      <span id="resultMeta"></span>
+      <button class="clear" id="clearVisited">清除開啟紀錄</button>
+    </div>
+    <div class="list" id="storeList"></div>
+  </section>
+
+  <section id="drawsPane" class="hide">
+    <div class="toolbar">
+      <input id="dq" class="search" placeholder="搜尋抽選、門市或商品…" autocomplete="off">
+    </div>
+    <div class="list" id="drawList"></div>
+  </section>
+
+  <div class="foot">
+    此頁已設定禁止一般搜尋引擎索引。知道網址的人仍可直接開啟，因此請只分享給你信任的人。
+  </div>
+</div>
+<div id="toast" class="toast">已複製</div>
+
+<script src="./d4.js"></script>
+<script>
+  const $ = s => document.querySelector(s);
+  const visitedKey = "pv_" + location.pathname;
+  const visited = new Set(JSON.parse(localStorage.getItem(visitedKey) || "[]"));
+  let county = "全部";
+
+  const countyOrder = ["全部","新北","台北","宜蘭","桃園","新竹","台中","彰化","雲林","高雄","屏東"];
+
+  function esc(s){
+    return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"}[m]));
+  }
+
+  function storeId(s){ return btoa(unescape(encodeURIComponent(s.name+s.url))).replace(/=+$/,""); }
+
+  function renderFilters(){
+    $("#filters").innerHTML = countyOrder.map(c =>
+      `<button class="chip ${c===county?"active":""}" data-c="${c}">${c}</button>`
+    ).join("");
+    document.querySelectorAll(".chip").forEach(b => b.onclick = () => {
+      county = b.dataset.c; renderFilters(); renderStores();
+    });
+  }
+
+  function renderStores(){
+    const q = $("#q").value.trim().toLowerCase();
+    const list = STORES.filter(s =>
+      (county==="全部" || s.county===county) &&
+      (!q || (s.name+" "+s.county+" "+s.region).toLowerCase().includes(q))
+    );
+    $("#resultMeta").textContent = `${list.length} 家`;
+    $("#count").textContent = `共 ${STORES.length} 家`;
+    $("#storeList").innerHTML = list.map(s => {
+      const id = storeId(s), was = visited.has(id);
+      return `<div class="card ${was?"visited":""}" data-id="${id}">
+        <div class="name">${esc(s.name)}</div>
+        <span class="county">${esc(s.county)}</span>
+        <div class="actions">
+          <a class="btn btn-main openLine" href="${esc(s.url)}" target="_blank" rel="noreferrer noopener">開啟 LINE</a>
+          <button class="btn btn-copy copyBtn" data-url="${esc(s.url)}">複製連結</button>
+        </div>
+      </div>`;
+    }).join("") || `<div class="empty">沒有符合的門市</div>`;
+
+    document.querySelectorAll(".openLine").forEach(a => a.onclick = () => {
+      const card = a.closest(".card"); visited.add(card.dataset.id);
+      localStorage.setItem(visitedKey, JSON.stringify([...visited]));
+      card.classList.add("visited");
+    });
+    document.querySelectorAll(".copyBtn").forEach(b => b.onclick = async () => {
+      try {
+        await navigator.clipboard.writeText(b.dataset.url);
+      } catch {
+        const t=document.createElement("textarea"); t.value=b.dataset.url; document.body.appendChild(t);
+        t.select(); document.execCommand("copy"); t.remove();
+      }
+      showToast("已複製連結");
+    });
+  }
+
+  function renderDraws(){
+    const q = $("#dq").value.trim().toLowerCase();
+    const list = DRAWS.filter(d => !q || JSON.stringify(d).toLowerCase().includes(q));
+    $("#drawList").innerHTML = list.length ? list.map(d => `
+      <div class="card">
+        <div class="draw-date">${esc(d.date||"")}</div>
+        <div class="draw-title">${esc(d.item||"")}</div>
+        <div class="draw-store">${esc(d.store||"")}</div>
+        <div class="actions">
+          <a class="btn btn-main" href="${esc(d.url||"#")}" target="_blank" rel="noreferrer noopener">開啟抽選</a>
+          <button class="btn btn-copy copyBtn" data-url="${esc(d.url||"")}">複製連結</button>
+        </div>
+      </div>`).join("") :
+      `<div class="empty"><b>目前尚未加入抽選資料</b><br><br>之後只要把 LINE 抽選訊息交給我，就可以整理到這裡。</div>`;
+  }
+
+  function showToast(t){
+    const el=$("#toast"); el.textContent=t; el.classList.add("show");
+    setTimeout(()=>el.classList.remove("show"),1200);
+  }
+
+  document.querySelectorAll(".tab").forEach(t => t.onclick = () => {
+    document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active"));
+    t.classList.add("active");
+    const stores = t.dataset.tab==="stores";
+    $("#storesPane").classList.toggle("hide",!stores);
+    $("#drawsPane").classList.toggle("hide",stores);
+    if(!stores) renderDraws();
+  });
+
+  $("#q").addEventListener("input",renderStores);
+  $("#dq").addEventListener("input",renderDraws);
+  $("#clearVisited").onclick = () => {
+    visited.clear(); localStorage.removeItem(visitedKey); renderStores(); showToast("已清除紀錄");
+  };
+
+  renderFilters(); renderStores(); renderDraws();
+</script>
+</body>
+</html>
