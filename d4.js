@@ -384,6 +384,12 @@ const DRAWS = [
     "date": "08/28",
     "store": "Funbox 天母SOGO",
     "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/UKM6TKK"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-10 極限衝擊戰鬥盤",
     "url": "https://lin.ee/OnkeSxw"
   },
   {
@@ -456,6 +462,12 @@ const DRAWS = [
     "date": "08/28",
     "store": "Funbox 天母SOGO",
     "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/q97O5u7"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-10 極限衝擊戰鬥盤",
     "url": "https://lin.ee/PRItKmN"
   },
   {
@@ -505,6 +517,12 @@ const DRAWS = [
     "store": "Funbox 天母SOGO",
     "item": "BX-10 極限衝擊戰鬥盤",
     "url": "https://lin.ee/5JE24Ce"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/Xqa4sFy"
   },
   {
     "date": "08/28",
@@ -2986,6 +3004,12 @@ const DRAWS = [
   },
   {
     "date": "08/28",
+    "store": "Funbox 廣三SOGO",
+    "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/Xo7D2Lr"
+  },
+  {
+    "date": "08/28",
     "store": "Funbox 豐原太平洋",
     "item": "BX-10 極限衝擊戰鬥盤",
     "url": "https://lin.ee/9HXGvi5l"
@@ -4008,6 +4032,12 @@ const DRAWS = [
     "date": "08/28",
     "store": "Funbox 桃園環球A19",
     "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/yjWrZ5V"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 桃園環球A19",
+    "item": "BX-10 極限衝擊戰鬥盤",
     "url": "https://lin.ee/uIAKrOm"
   },
   {
@@ -4248,6 +4278,12 @@ const DRAWS = [
     "date": "08/28",
     "store": "Funbox 桃園環球A19",
     "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/YNOqqPO"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 桃園環球A19",
+    "item": "BX-10 極限衝擊戰鬥盤",
     "url": "https://lin.ee/oBvdgWL"
   },
   {
@@ -4314,6 +4350,12 @@ const DRAWS = [
     "date": "08/28",
     "store": "Funbox 桃園環球A19",
     "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/w9EtprO"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 桃園環球A19",
+    "item": "BX-10 極限衝擊戰鬥盤",
     "url": "https://lin.ee/5o6OXHo"
   },
   {
@@ -4333,6 +4375,12 @@ const DRAWS = [
     "store": "Funbox 桃園環球A19",
     "item": "BX-10 極限衝擊戰鬥盤",
     "url": "https://lin.ee/vIJCgVo"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 桃園環球A19",
+    "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/Z4UqYWp"
   },
   {
     "date": "08/28",
