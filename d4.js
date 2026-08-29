@@ -2898,13 +2898,61 @@ const DRAWS = [
     "date": "08/28",
     "store": "Funbox 桃園環球A19",
     "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/wMzqNAH"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 桃園環球A19",
+    "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/6DRehVj"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 桃園環球A19",
+    "item": "BX-10 極限衝擊戰鬥盤",
     "url": "https://lin.ee/SGrSo04"
   },
   {
     "date": "08/28",
     "store": "Funbox 桃園環球A19",
     "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/pSWBH4G"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 桃園環球A19",
+    "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/Zc5GO6M"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 桃園環球A19",
+    "item": "BX-10 極限衝擊戰鬥盤",
     "url": "https://lin.ee/tMbYyuo"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 桃園環球A19",
+    "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/W7Mrids"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 桃園環球A19",
+    "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/6pIwiwh"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 桃園環球A19",
+    "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/Z689cvI"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 桃園環球A19",
+    "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/N9YpV8c"
   },
   {
     "date": "08/28",
@@ -3240,6 +3288,12 @@ const DRAWS = [
     "date": "08/28",
     "store": "Funbox 廣三SOGO",
     "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/w7T1FtI"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 廣三SOGO",
+    "item": "BX-10 極限衝擊戰鬥盤",
     "url": "https://lin.ee/tBApiM8"
   },
   {
@@ -3457,6 +3511,12 @@ const DRAWS = [
     "store": "Funbox 廣三SOGO",
     "item": "BX-10 極限衝擊戰鬥盤",
     "url": "https://lin.ee/6TBJaAM"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 廣三SOGO",
+    "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/ps0aj3G"
   },
   {
     "date": "08/28",
@@ -4456,6 +4516,12 @@ const DRAWS = [
   },
   {
     "date": "08/28",
+    "store": "Funbox 高雄漢神",
+    "item": "BX-25 戰鬥陀螺X 專業收納包",
+    "url": "https://lin.ee/8lgrcWU"
+  },
+  {
+    "date": "08/28",
     "store": "Funbox 高雄大立",
     "item": "BX-10 極限衝戰鬥盤 850元",
     "url": "https://lin.ee/ZNECVAe"
@@ -4806,6 +4872,12 @@ const DRAWS = [
     "date": "08/28",
     "store": "Funbox 高雄漢神",
     "item": "BX-25 戰鬥陀螺X 專業收納包",
+    "url": "https://lin.ee/9exJ7qo"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 高雄漢神",
+    "item": "BX-25 戰鬥陀螺X 專業收納包",
     "url": "https://lin.ee/9hQDNOH"
   },
   {
@@ -4855,6 +4927,12 @@ const DRAWS = [
     "store": "Funbox 高雄漢神",
     "item": "BX-25 戰鬥陀螺X 專業收納包",
     "url": "https://lin.ee/Tne7NHQ"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 高雄漢神",
+    "item": "BX-25 戰鬥陀螺X 專業收納包",
+    "url": "https://lin.ee/WJUKWR4"
   },
   {
     "date": "08/28",
@@ -5305,6 +5383,12 @@ const DRAWS = [
     "store": "Funbox 桃園環球A19",
     "item": "BX-10 極限衝擊戰鬥盤",
     "url": "https://lin.ee/yxdUTSH"
+  },
+  {
+    "date": "08/28",
+    "store": "Funbox 桃園環球A19",
+    "item": "BX-10 極限衝擊戰鬥盤",
+    "url": "https://lin.ee/S7Bt8VH"
   },
   {
     "date": "08/28",
