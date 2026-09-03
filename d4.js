@@ -421,5 +421,149 @@ const DRAWS = [
     "store": "Funbox 台中港三井",
     "item": "BX-00 蒼龍神劍3-60F V2",
     "url": "https://lin.ee/WhqVa84"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中港三井",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/NoSbfkR"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中港三井",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/o3NsYxR"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中港三井",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/pIJWrfq"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中港三井",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/oM6CRPO"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中港三井",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/TSZ5FQE"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中港三井",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/U2KWNuL"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中港三井",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/8BJX2yK"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中港三井",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/qqqDOUZ"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 新竹遠東",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/PuaKA54"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 新竹遠東",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/ReA7kmv"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 新竹遠東",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/PuWtTsF"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 新竹遠東",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/uJJrE9X"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心",
+    "url": "https://lin.ee/qEcNM9w"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心",
+    "url": "https://lin.ee/wmiuE0n"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心",
+    "url": "https://lin.ee/THnVN62k"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心",
+    "url": "https://lin.ee/vhFWT494"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心",
+    "url": "https://lin.ee/OizZgb2"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心",
+    "url": "https://lin.ee/WlCghWy"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心",
+    "url": "https://lin.ee/yCscH9nD"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心",
+    "url": "https://lin.ee/xI92MJV"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心",
+    "url": "https://lin.ee/s1gxucV"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心",
+    "url": "https://lin.ee/N6Iy9Or"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心",
+    "url": "https://lin.ee/rv8By2l"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心",
+    "url": "https://lin.ee/5t8EJHI"
   }
 ];
