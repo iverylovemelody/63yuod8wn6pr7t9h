@@ -1018,6 +1018,48 @@ const DRAWS = [
   },
   {
     "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心（$295）",
+    "url": "https://lin.ee/WgeCVL5"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心（$295）",
+    "url": "https://lin.ee/O4ie6qM"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心（$295）",
+    "url": "https://lin.ee/vmG73a5"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心（$295）",
+    "url": "https://lin.ee/OA3c7Mr"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心（$295）",
+    "url": "https://lin.ee/rFOFhMp"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心（$295）",
+    "url": "https://lin.ee/vWcxLus"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 桃園站前",
+    "item": "BX-26 獨角刺心（$295）",
+    "url": "https://lin.ee/YeQUSWK"
+  },
+  {
+    "date": "09/04",
     "store": "Funbox 新竹遠東",
     "item": "BX-00 蒼龍神劍3-60F V2（$350）",
     "url": "https://lin.ee/PuaKA54"
@@ -1063,6 +1105,78 @@ const DRAWS = [
     "store": "Funbox 新竹遠雄",
     "item": "BX-00 蒼龍神劍 3-60F（$350）",
     "url": "https://lin.ee/pXZEoGWs"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 新竹遠雄",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/q9afulW"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 新竹遠雄",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/uixtQ7J"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 新竹遠雄",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/W8dqSOf"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 新竹遠雄",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/tlk2QNR"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 新竹遠雄",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/UMIOOkmT"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 新竹遠雄",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/RmJTjQn"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 新竹遠雄",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/ZtrW6ke"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 新竹遠雄",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/VvzQGlp"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 新竹遠雄",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/n87rEJR"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 新竹遠雄",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/OUoa2Ev"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 新竹遠雄",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/uxugz55"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 新竹遠雄",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/RVMevOZ"
   },
   {
     "date": "09/04",
@@ -1705,6 +1819,42 @@ const DRAWS = [
     "store": "Funbox 天母SOGO",
     "item": "BX-00 蒼龍神劍3-60F V2（$350）",
     "url": "https://lin.ee/ULfcxtt"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/WAmUxCJ"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/n8lxSgq"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/9OdIzi6"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/qBNBah4"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/z4Xr29Y"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/paNzbYe"
   },
   {
     "date": "09/04",
