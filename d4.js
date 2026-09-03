@@ -232,6 +232,126 @@ const STORES = [
 const DRAWS = [
   {
     "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/safDqUe"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/wYrNdRC"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/T5Wn9bw"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/SCIl52o"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/8BKFd8T"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/vneOzIi"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/oD41qlW"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/5WCU1Vh"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/ueidV90"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/XJIS7rA"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/sFJRqbL"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/sVMalX9j"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/qo0YNUu"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/uReFQuK"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/WjfQVWWP"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/6uMADK5"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/5PW6o5y"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/rgYFBku"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/z9mO3Wy"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/XK5mj0F"
+  },
+  {
+    "date": "09/04",
     "store": "Funbox 台中港三井",
     "item": "BX-00 蒼龍神劍3-60F V2",
     "url": "https://lin.ee/T45MJ8f"
