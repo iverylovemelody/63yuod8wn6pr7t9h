@@ -1492,6 +1492,84 @@ const DRAWS = [
   },
   {
     "date": "09/04",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/945EI9W"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/YBUqfLK"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/pNhZWfLz"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/S8vUnc0"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/PaJzq7K"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/ufz64rZ"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/SP2pkLX"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/OUWCEv9"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/qg29KTt"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/sawIsWZ"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/uKyhKKQ"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/vnyQJ78"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/T2OZYar"
+  },
+  {
+    "date": "09/04",
     "store": "Funbox 天母SOGO",
     "item": "BX-00 蒼龍神劍3-60F V2（$350）",
     "url": "https://lin.ee/7XcJJo4"
@@ -2191,5 +2269,89 @@ const DRAWS = [
     "store": "Funbox 宜蘭新月",
     "item": "BX-00 蒼龍神劍3-60F V2（$350）",
     "url": "https://lin.ee/90DcANj"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/PxecvZO"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/oLqgoyM"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/Z2K2FV0"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/6mhTk9K"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/vtj8HYW"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/z8C63dF"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/xlHg3Hb"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/pZaZ0gp"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/rbMX4MmW"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/NafDqhz"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/OYapa7T"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/6v3nifek"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/xLRQmB44"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/Sz9eBXS"
   }
 ];
