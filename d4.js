@@ -466,6 +466,48 @@ const DRAWS = [
   },
   {
     "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/zfyVDku"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/PLbLMXo"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/qW7Oiqi"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/9sGjpih"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/nziJiOE"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/n4KT7gJ"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 三越南西",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/UNUtlZi"
+  },
+  {
+    "date": "09/04",
     "store": "Funbox 台中港三井",
     "item": "BX-00 蒼龍神劍3-60F V2",
     "url": "https://lin.ee/T45MJ8f"
@@ -874,6 +916,24 @@ const DRAWS = [
   },
   {
     "date": "09/04",
+    "store": "Funbox 廣三SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/sNFUKbu"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 廣三SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/qFCWjG4"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 廣三SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2",
+    "url": "https://lin.ee/7W178Rr"
+  },
+  {
+    "date": "09/04",
     "store": "Funbox 來玩聚斗六",
     "item": "BX-00 蒼龍神劍3-60F V2",
     "url": "https://lin.ee/RRZW8v7"
@@ -895,5 +955,221 @@ const DRAWS = [
     "store": "Funbox 來玩聚斗六",
     "item": "BX-00 蒼龍神劍3-60F V2",
     "url": "https://lin.ee/ny8t5uU"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/Pka1ku2"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/uVpfV2j"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/XRRYfC9"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/z6TXHvM"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/U85OY6B"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/W4YWfXL"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/yfX1zfA"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/zAUGc8K"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/yMjKKC4"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 暴風天馬",
+    "url": "https://lin.ee/5wyZSJ5"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 暴風天馬",
+    "url": "https://lin.ee/pVFQ7jG"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 暴風天馬",
+    "url": "https://lin.ee/vSA7Zxu5"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 暴風天馬",
+    "url": "https://lin.ee/vuaxC68d"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 暴風天馬",
+    "url": "https://lin.ee/saH4yrT"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 暴風天馬",
+    "url": "https://lin.ee/TJZp8s4"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 暴風天馬",
+    "url": "https://lin.ee/6HZKxMr"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 暴風天馬",
+    "url": "https://lin.ee/8fWeyhW"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 暴風天馬",
+    "url": "https://lin.ee/si7qji9"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 暴風天馬",
+    "url": "https://lin.ee/UtwAzrjf"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 暴風天馬",
+    "url": "https://lin.ee/PLfF01V"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 暴風天馬",
+    "url": "https://lin.ee/nar6FMu"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 暴風天馬",
+    "url": "https://lin.ee/n5cDwZA"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 暴風天馬",
+    "url": "https://lin.ee/wzgWKRj"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 暴風天馬",
+    "url": "https://lin.ee/59VBJso"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 暴風天馬",
+    "url": "https://lin.ee/TkeJqInx"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 暴風天馬",
+    "url": "https://lin.ee/VayWbgb"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/PGX5Uk9"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/TUTxeDL"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/nfZ9huC"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/oNFsjPf"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/9nllAXf"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/pP9d1Px"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/wd23sQ4"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/ykm8MFh"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/sus7G3a"
+  },
+  {
+    "date": "09/04",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 暴風天馬3-70RA",
+    "url": "https://lin.ee/QD9kqwf"
   }
 ];
