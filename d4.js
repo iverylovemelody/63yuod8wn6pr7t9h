@@ -304,6 +304,24 @@ const DRAWS = [
   },
   {
     "date": "09/11",
+    "store": "Funbox 廣三SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/Q3x58xY"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 廣三SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/6myV5gy"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 廣三SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/Teeti1U"
+  },
+  {
+    "date": "09/11",
     "store": "Funbox 板橋遠東",
     "item": "BX-00 蒼龍神劍V2（$350）",
     "url": "https://lin.ee/p6Hm7YO"
@@ -655,6 +673,18 @@ const DRAWS = [
     "store": "Funbox 廣三SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/pVfZbJ6"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 廣三SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/Olyo4pX"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 廣三SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/N4zI9Ue"
   },
   {
     "date": "09/11",
