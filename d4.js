@@ -232,93 +232,213 @@ const STORES = [
 const DRAWS = [
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/79aYEfH"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/V2XrEqY"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/xrvbsaJ"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/9ORwvJh"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/x5H1ZjY"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/PtEatZV"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/8FfX2UL"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/ZDvzc3y"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/qQ1H5jp"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/YUyfSal"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/65obJEn"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/n3AkNVM"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/Q3x58xY"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/6myV5gy"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/Teeti1U"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/y4j0PVB"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/uq6jtZa"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/sW8NexE"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/NsYCTEy"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/U0irnFS"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/qtETM0Z"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/8ui3pQS"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/wNVQFEw"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/629xw4m"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/yxZblNk"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/Pxw2I5hu"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/rFVhsbI"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/rU3f6Ng"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/WYNMaUp"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/x1u6Knk"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/ym2BGXG"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/xOtHEe4"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/pncsz8S"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/R1VlRfVq"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/TxQ5gKs"
   },
   {
     "date": "09/11",
@@ -349,84 +469,6 @@ const DRAWS = [
     "store": "Funbox 板橋遠東",
     "item": "BX-00 蒼龍神劍V2（$350）",
     "url": "https://lin.ee/7Qp0lON"
-  },
-  {
-    "date": "09/11",
-    "store": "Funbox 樹林秀泰",
-    "item": "BX-00 蒼龍神劍V2（$350）",
-    "url": "https://lin.ee/Xt0QmgW"
-  },
-  {
-    "date": "09/11",
-    "store": "Funbox 樹林秀泰",
-    "item": "BX-00 蒼龍神劍V2（$350）",
-    "url": "https://lin.ee/7dP5Pk3"
-  },
-  {
-    "date": "09/11",
-    "store": "Funbox 樹林秀泰",
-    "item": "BX-00 蒼龍神劍V2（$350）",
-    "url": "https://lin.ee/xhwBf0s"
-  },
-  {
-    "date": "09/11",
-    "store": "Funbox 樹林秀泰",
-    "item": "BX-00 蒼龍神劍V2（$350）",
-    "url": "https://lin.ee/yXRRW40w"
-  },
-  {
-    "date": "09/11",
-    "store": "Funbox 樹林秀泰",
-    "item": "BX-00 蒼龍神劍V2（$350）",
-    "url": "https://lin.ee/6IxcVjO"
-  },
-  {
-    "date": "09/11",
-    "store": "Funbox 樹林秀泰",
-    "item": "BX-00 蒼龍神劍V2（$350）",
-    "url": "https://lin.ee/pIw60ms"
-  },
-  {
-    "date": "09/11",
-    "store": "Funbox 樹林秀泰",
-    "item": "BX-00 蒼龍神劍V2（$350）",
-    "url": "https://lin.ee/Z89mhvp"
-  },
-  {
-    "date": "09/11",
-    "store": "Funbox 樹林秀泰",
-    "item": "BX-00 蒼龍神劍V2（$350）",
-    "url": "https://lin.ee/Wk7yvdq"
-  },
-  {
-    "date": "09/11",
-    "store": "Funbox 樹林秀泰",
-    "item": "BX-00 蒼龍神劍V2（$350）",
-    "url": "https://lin.ee/PiB81Tc"
-  },
-  {
-    "date": "09/11",
-    "store": "Funbox 樹林秀泰",
-    "item": "BX-00 蒼龍神劍V2（$350）",
-    "url": "https://lin.ee/8jSgYwK"
-  },
-  {
-    "date": "09/11",
-    "store": "Funbox 樹林秀泰",
-    "item": "BX-00 蒼龍神劍V2（$350）",
-    "url": "https://lin.ee/SbX2k2Vo"
-  },
-  {
-    "date": "09/11",
-    "store": "Funbox 樹林秀泰",
-    "item": "BX-00 蒼龍神劍V2（$350）",
-    "url": "https://lin.ee/sdv83vb"
-  },
-  {
-    "date": "09/11",
-    "store": "Funbox 樹林秀泰",
-    "item": "BX-00 蒼龍神劍V2（$350）",
-    "url": "https://lin.ee/RQW6Llo"
   },
   {
     "date": "09/11",
@@ -475,6 +517,108 @@ const DRAWS = [
     "store": "Funbox 板橋遠東",
     "item": "BX-00 蒼龍神劍V2（$350）",
     "url": "https://lin.ee/58XYS5A"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 蒼龍神劍V2（$350）",
+    "url": "https://lin.ee/r1IXPQE"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 蒼龍神劍V2（$350）",
+    "url": "https://lin.ee/RyYyWOo"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 蒼龍神劍V2（$350）",
+    "url": "https://lin.ee/vk3CI4g"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 板橋遠東",
+    "item": "BX-00 蒼龍神劍V2（$350）",
+    "url": "https://lin.ee/51lxU5K"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 蒼龍神劍V2（$350）",
+    "url": "https://lin.ee/sCU4pitK"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 蒼龍神劍V2（$350）",
+    "url": "https://lin.ee/qVQi9m3"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 蒼龍神劍V2（$350）",
+    "url": "https://lin.ee/8Mgc2Ra"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 蒼龍神劍V2（$350）",
+    "url": "https://lin.ee/vyKYuXu"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 蒼龍神劍V2（$350）",
+    "url": "https://lin.ee/U0394RC"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 蒼龍神劍V2（$350）",
+    "url": "https://lin.ee/6sbALkLw"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 蒼龍神劍V2（$350）",
+    "url": "https://lin.ee/7jUJs9F"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 蒼龍神劍V2（$350）",
+    "url": "https://lin.ee/x6lajAo"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 蒼龍神劍V2（$350）",
+    "url": "https://lin.ee/7dR60o7"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 蒼龍神劍V2（$350）",
+    "url": "https://lin.ee/nMMo9F9"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 蒼龍神劍V2（$350）",
+    "url": "https://lin.ee/UYv5QPl"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 蒼龍神劍V2（$350）",
+    "url": "https://lin.ee/svvpyy8"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 樹林秀泰",
+    "item": "BX-00 蒼龍神劍V2（$350）",
+    "url": "https://lin.ee/rsycL2q"
   },
   {
     "date": "09/11",
@@ -556,6 +700,72 @@ const DRAWS = [
   },
   {
     "date": "09/11",
+    "store": "Funbox 新竹遠雄",
+    "item": "BX-00 蒼龍神劍 3-60F（$350）",
+    "url": "https://lin.ee/nM1oXtf"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 新竹遠雄",
+    "item": "BX-00 蒼龍神劍 3-60F（$350）",
+    "url": "https://lin.ee/5mqMzNZ"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 新竹遠雄",
+    "item": "BX-00 蒼龍神劍 3-60F（$350）",
+    "url": "https://lin.ee/ofEN0zN"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/ZLPUmoH"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/ylbms4i"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/5aiicgx"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/WaOcOXM"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/nAdCSiL"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/WZcKHxw"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/NoxUMlh"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/TOclMv8"
+  },
+  {
+    "date": "09/11",
     "store": "Funbox 台中港三井",
     "item": "BX-00 蒼龍神劍3-60F V2（$350）",
     "url": "https://lin.ee/9mQ9dqB"
@@ -617,26 +827,128 @@ const DRAWS = [
   {
     "date": "09/11",
     "store": "Funbox 廣三SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/nFb30Ey"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 廣三SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/UVyu6GN"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 廣三SOGO",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/rnE5Hl5"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/WFVW7YW"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/rtkxzaY"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/RT0Qmjj"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/NTdr548"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 台中中友",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/rWohN0Y"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/qt2mNAf"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/WnOwOyV"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/YA2pGeD"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/WgFn0sO"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/ptsOv5k"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/9hfYqY0"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/6jqBx8o"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/5S5iDzB"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/X7IyEQJ"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/RjyQdUc"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/tkA8Cms"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/Span7zb"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 天母SOGO",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/QoPxlVQ"
   },
   {
     "date": "09/11",
@@ -658,31 +970,31 @@ const DRAWS = [
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/Qls6R6V"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/WeYu7JB"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/pVfZbJ6"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/Olyo4pX"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
+    "store": "Funbox 天母SOGO",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/N4zI9Ue"
   },
@@ -712,15 +1024,63 @@ const DRAWS = [
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
-    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "store": "Funbox 高雄大立",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/XURwiUg"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 高雄大立",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/O1cMbf4"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 高雄大立",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/oWeYBs8"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 高雄大立",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/SSZ0tUy"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 高雄大立",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/T5CrB1d"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 屏東環球",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
     "url": "https://lin.ee/VYNow4o"
   },
   {
     "date": "09/11",
-    "store": "Funbox 廣三SOGO",
-    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "store": "Funbox 屏東環球",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
     "url": "https://lin.ee/8F28eaV"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 屏東環球",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/rMFSI42"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 屏東環球",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/7iP00az"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 屏東環球",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/8Pp9KkQ"
   },
   {
     "date": "09/11",
