@@ -833,32 +833,44 @@ const DRAWS = [
   {
     "date": "09/11",
     "store": "Funbox 板橋大遠百",
-    "item": "UX-21 惡魔冥界改造組（$895）",
+    "item": "UX-21 惡魔冥界改造組（$885）",
     "url": "https://lin.ee/8cArlJr"
   },
   {
     "date": "09/11",
     "store": "Funbox 板橋大遠百",
-    "item": "UX-21 惡魔冥界改造組（$895）",
+    "item": "UX-21 惡魔冥界改造組（$885）",
     "url": "https://lin.ee/nwZ8UAn"
   },
   {
     "date": "09/11",
     "store": "Funbox 板橋大遠百",
-    "item": "UX-21 惡魔冥界改造組（$895）",
+    "item": "UX-21 惡魔冥界改造組（$885）",
     "url": "https://lin.ee/wzZcF5u"
   },
   {
     "date": "09/11",
     "store": "Funbox 板橋大遠百",
-    "item": "UX-21 惡魔冥界改造組（$895）",
+    "item": "UX-21 惡魔冥界改造組（$885）",
     "url": "https://lin.ee/SLbhLeD"
   },
   {
     "date": "09/11",
     "store": "Funbox 板橋大遠百",
-    "item": "UX-21 惡魔冥界改造組（$895）",
+    "item": "UX-21 惡魔冥界改造組（$885）",
     "url": "https://lin.ee/7rYQ9mm"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 比漾廣場",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/udna5wGR"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 比漾廣場",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/9jLWHeT"
   },
   {
     "date": "09/11",
@@ -925,6 +937,24 @@ const DRAWS = [
     "store": "Funbox 桃園站前",
     "item": "BX-00 暴風天馬3-70RA（$595）",
     "url": "https://lin.ee/VJRYDec"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 桃園站前",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/9kinAbh"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 桃園站前",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/WN5WcJR"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 桃園站前",
+    "item": "BX-00 暴風天馬3-70RA（$595）",
+    "url": "https://lin.ee/VjyP3Zs"
   },
   {
     "date": "09/11",
@@ -1453,6 +1483,30 @@ const DRAWS = [
     "store": "Funbox 高雄漢神",
     "item": "CX-00 新世紀福音戰士陀螺套組（$1,395）",
     "url": "https://lin.ee/5Hmgk7n"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 高雄漢神",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/X4F6fos"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 高雄漢神",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/5tiuXjv"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 高雄漢神",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/zYhcxRZP"
+  },
+  {
+    "date": "09/11",
+    "store": "Funbox 高雄漢神",
+    "item": "BX-00 蒼龍神劍3-60F V2（$350）",
+    "url": "https://lin.ee/Z3iK5cP"
   },
   {
     "date": "09/11",
